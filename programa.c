@@ -3,8 +3,8 @@
 int main()
 {
 
-	int var = 0;
-	printf("Variavel = %d \n", var);
+	int var = 1;
+	printf("Variavel = %d \n\n", var);
 	return 0;
 
 }
